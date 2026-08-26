@@ -1,0 +1,17 @@
+data/
+models/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.bmp
+*.tiff
+*.ico
+*.svg
+node_modules/
+__pycache__/
+venv/
+.venv/
+.env
+fraud_gnn/
